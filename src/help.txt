@@ -1,0 +1,12 @@
+Metaball Renderer - Lumina Sapphira 2021
+Based on the work found at https://web.archive.org/web/20161018194403/https://www.niksula.hut.fi/%7Ehkankaan/Homepages/metaballs.html
+
+Controls:
+[SPACE] - Randomize the metaballs
+[C] - Toggle visibility of center point indicators
+
+Commands:
+t#.## - Change the metaball threshold
+    Ex: t0.5
+g#.## - change the goo value
+    Ex: g1.6
